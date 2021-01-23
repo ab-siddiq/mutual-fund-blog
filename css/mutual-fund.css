@@ -1,0 +1,127 @@
+
+hr.line {
+    width: 80px;
+    height: 4px;
+    background-color: #B02A30;
+    opacity: 100%
+}
+.headline-color{color: #174082;}
+.big-headline-style{
+    font-weight: bold;
+    margin: 15px 0;
+}
+.read-more {
+    text-decoration: none;
+    color: #FF6C3E;
+    font-weight: bold;
+}
+
+.read-more:hover {
+    color: #F79948
+}
+
+.date-stamp {
+    display: inline-block;
+    background-color: #174082;
+    color: white;
+    padding: 10px 20px;
+    position: absolute;
+    margin-top: -53px;
+}
+
+.videoes {
+    padding: 50px 0;
+}
+
+.card-body-height {
+    min-height: 170px;
+    padding: 30px 40px;
+    border: none;
+    box-shadow: 5px 5px 40px gray;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.videoes .card {
+    border: none;
+}
+
+.videoes.card-img-top {
+    border-radius: 10px;
+}
+
+.custom-card-title {
+    font-weight: bolder;
+    margin: 10px 0 20px 0;
+}
+.middle-banner{
+   
+    width: 70%;
+    margin: auto;
+    position: relative;
+}
+.middle-banner .data{
+    position: absolute;
+    
+    
+}
+.data h2, .data a{
+    display: block;
+    text-align: center;
+    margin-left: 250px;
+    color: #ffffff;
+}
+.data h2{
+    margin-right: 15px;
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 35px;
+    font-weight: 500;
+}
+.data a{
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+.middle-banner-2{
+   
+    width: 70%;
+    margin: auto;
+    position: relative;
+}
+.middle-banner-2 .data-2{
+    position: absolute;
+    
+    
+}
+.data-2 h2, .data-2 a{
+    display: block;
+    text-align: center;
+    margin-left: ;
+    color: #ffffff;
+}
+.data-2 h2{
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 22px;
+    line-height: 35px;
+    font-weight: 500;
+}
+.data-2 a{
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 600;
+    text-decoration: none;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    padding: 5px  20px;
+    margin: 10px 20px 0 0;
+}
+.data-2 ul{list-style: none;}
+.data-2 ul li{display: inline; margin: 10px 10px 0 10px; color: #FDB68F;}
+.data-2 ul li>i{font-size: 500px;}
+.data-2 ul
