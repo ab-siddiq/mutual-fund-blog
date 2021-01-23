@@ -99,7 +99,7 @@ footer .btn-top-text {
 }
 
 footer input:hover,
-.form-control-feedback i:hover {
+footer .form-control-feedback i:hover {
 
     border: 1px solid #F75A29;
 }
