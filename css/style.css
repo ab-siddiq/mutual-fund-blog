@@ -64,7 +64,7 @@
 }
 
 .mutual-fund-blog .card-img-top img {
-    transition: transform .2s ease-in-out;
+    transition: transform .3s ease-in-out;
 }
 
 .mutual-fund-blog .card-img-top img:hover {
